@@ -6,8 +6,6 @@ Validate JSON-LD structured data and Schema.org markup on any website using [Spi
 
 **Live Demo:** [https://schema-validator.spider.cloud](https://schema-validator.spider.cloud)
 
-![Spider Schema Validator](./example.png)
-
 ## Features
 
 - JSON-LD extraction from API with HTML fallback
